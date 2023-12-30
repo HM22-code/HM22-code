@@ -5,6 +5,8 @@
   [My portfolio](https://hm22-code.github.io/portfolio/)
   
   [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=HM22-code&repo=portfolio&theme=transparent)](https://github.com/HM22-code/portfolio)
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HM22-code&theme=transparent)
   
 </div>
 
@@ -86,7 +88,3 @@ I'm always looking to improve in what I do or produce in general.
 ## 📫 Contact
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugo.montandon2@gmail.com)
-
-## 📊 GitHub stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HM22-code&theme=transparent)
