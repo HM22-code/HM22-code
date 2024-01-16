@@ -6,7 +6,7 @@
   
   [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=HM22-code&repo=portfolio&theme=transparent)](https://github.com/HM22-code/portfolio)
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HM22-code&theme=transparent)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HM22-code&theme=transparent&hide=c%2B%2B,cmake,dart&layout=compact)
   
 </div>
 
