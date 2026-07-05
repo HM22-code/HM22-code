@@ -9,11 +9,7 @@
 ## 🔍 About me
 
 My name's Hugo. 
-I'm a developer. Currently, I'm learning about software and application development.
-I'm interested in 💻 new technologies and 👨‍💻 computer science in general. 
-I'm passionate about 🎮 video games and their 🎨 creative fields. 
-I'm curious and I want to progress in computer science. 
-I'm always looking to improve in what I do or produce in general.
+I love video games and their creative fields. 
 
 ## 💻 Tech stacks
 
@@ -76,11 +72,3 @@ I'm always looking to improve in what I do or produce in general.
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-
-## 🌏 Social
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-montandon/)
-
-## 📫 Contact
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugo.montandon2@gmail.com)
